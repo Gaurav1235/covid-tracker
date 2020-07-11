@@ -1,4 +1,4 @@
 module.exports={
 	MONGOURI:"Enter your Mongo URI",
-	JWT_SECRET:"uiwfnhdndskdfscfq45"
+	JWT_SECRET:"Enter your secret"
 }
